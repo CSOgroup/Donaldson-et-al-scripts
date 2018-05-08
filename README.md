@@ -1,5 +1,5 @@
 # Donaldson-et-al-scripts
-A public repository containing the scripts regarding analyses in Donaldson, Sungalee, Zufferey, Tavernari et al.
+A public repository containing the scripts regarding some of the analyses in Donaldson, Sungalee, Zufferey, Tavernari et al.
 
 Contact: giovanni.ciriello@unil.ch
 
