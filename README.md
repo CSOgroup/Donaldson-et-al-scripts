@@ -5,4 +5,4 @@ Contact: giovanni.ciriello@unil.ch
 
 Citation: 
 
-Scripts related to each figure are stored in separate folders, with a README.txt file describing them.
+Scripts related to each figure are stored in separate folders, with a README.md file briefly describing them.
