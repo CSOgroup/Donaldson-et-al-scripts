@@ -1,2 +1,2 @@
-This file describes the following scripts related to the analyses in Figure 1:
-- 
+- 'Fig1_compare_TADs.R' computes the Measure of Concordance between TAD partitions
+- 'Fig1_compare_compartments.R' computes the fraction of bins of two Hi-C matrices that are assigned to the same compartment
