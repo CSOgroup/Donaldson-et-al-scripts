@@ -1,6 +1,6 @@
 **TAD_DiffHiC.R** 
 
-This script computes differences between Hi-C interactomes (computed by HiC-DC [McCarty et al., 2017] as significant Hi-C interactions) and assesses their statistical significance.  
+This script computes differences between Hi-C interactomes (computed by HiC-DC [[Carty et al. (2017)]](https://www.nature.com/articles/ncomms15454) as significant Hi-C interactions) and assesses their statistical significance.  
 See methods section in Donaldson, Sungalee, Zufferey, Tavernari et al. for details.
 
 _Input_
