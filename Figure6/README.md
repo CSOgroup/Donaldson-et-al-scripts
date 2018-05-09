@@ -1,6 +1,6 @@
 **TAD_DiffHiC.R** 
 
-This script computes significantly different Hi-C interactions occurring in a given genomic domain (e.g. a TAD) between two cell lines / conditions. Inputs are significant interactions computed by HiC-DC ([Carty et al. (2017)](https://www.nature.com/articles/ncomms15454)) for each dataset.  
+This script computes significantly different Hi-C interactions occurring in a given genomic domain (e.g. a TAD) between two cell lines / conditions. Inputs are significant interactions computed by HiC-DC ([Carty et al. 2017](https://www.nature.com/articles/ncomms15454)) for each dataset.  
 See methods section in Donaldson, Sungalee, Zufferey, Tavernari et al. for details.
 
 _Input_
